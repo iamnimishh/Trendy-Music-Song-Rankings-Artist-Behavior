@@ -1,7 +1,7 @@
 
 # Music Trend Analysis: Exploring Song Rankings and Artist Behavior
 
-![Music Trend Analysis](shazam music.png)
+
 
 ## Overview
 
